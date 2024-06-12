@@ -1,0 +1,15 @@
+{
+"serie":{
+    "titulo":"La casa de papel",
+    "temporadas":12,
+    "episodios":24,
+    "capitulos":240,
+    "genero":"Drama",
+    "pathVideo":[
+        "ubicacion episodio 1 ",
+        "ubicacion episodio 2 ",
+        "ubicacion episodio 3 ",
+        "ubicacion episodio 4 "
+    ]
+}
+}
